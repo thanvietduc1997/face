@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.fce0de85.chunk.css",
-    "main.js": "/static/js/main.01204810.chunk.js",
-    "main.js.map": "/static/js/main.01204810.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1f1f19a3.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1f1f19a3.js.map",
-    "static/js/2.d19435fe.chunk.js": "/static/js/2.d19435fe.chunk.js",
-    "static/js/2.d19435fe.chunk.js.map": "/static/js/2.d19435fe.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.3c2bd0cf42f494fe8bedb67a66a045da.js": "/precache-manifest.3c2bd0cf42f494fe8bedb67a66a045da.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.fce0de85.chunk.css.map": "/static/css/main.fce0de85.chunk.css.map",
-    "static/js/2.d19435fe.chunk.js.LICENSE.txt": "/static/js/2.d19435fe.chunk.js.LICENSE.txt",
-    "static/media/BO.jpeg": "/static/media/BO.1915932f.jpeg",
-    "static/media/mxnet-logo.svg": "/static/media/mxnet-logo.c44482b0.svg"
+    "main.css": "/face/static/css/main.fce0de85.chunk.css",
+    "main.js": "/face/static/js/main.9d83a575.chunk.js",
+    "main.js.map": "/face/static/js/main.9d83a575.chunk.js.map",
+    "runtime-main.js": "/face/static/js/runtime-main.6c55c8a7.js",
+    "runtime-main.js.map": "/face/static/js/runtime-main.6c55c8a7.js.map",
+    "static/js/2.d19435fe.chunk.js": "/face/static/js/2.d19435fe.chunk.js",
+    "static/js/2.d19435fe.chunk.js.map": "/face/static/js/2.d19435fe.chunk.js.map",
+    "index.html": "/face/index.html",
+    "precache-manifest.f7d41defa36071465e34c49f9de98551.js": "/face/precache-manifest.f7d41defa36071465e34c49f9de98551.js",
+    "service-worker.js": "/face/service-worker.js",
+    "static/css/main.fce0de85.chunk.css.map": "/face/static/css/main.fce0de85.chunk.css.map",
+    "static/js/2.d19435fe.chunk.js.LICENSE.txt": "/face/static/js/2.d19435fe.chunk.js.LICENSE.txt",
+    "static/media/BO.jpeg": "/face/static/media/BO.1915932f.jpeg",
+    "static/media/mxnet-logo.svg": "/face/static/media/mxnet-logo.c44482b0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f1f19a3.js",
+    "static/js/runtime-main.6c55c8a7.js",
     "static/js/2.d19435fe.chunk.js",
     "static/css/main.fce0de85.chunk.css",
-    "static/js/main.01204810.chunk.js"
+    "static/js/main.9d83a575.chunk.js"
   ]
 }
